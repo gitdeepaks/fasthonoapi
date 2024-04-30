@@ -1,0 +1,7 @@
+name = "fasthonoapi"
+compatibility-date = "2024-04-30"
+
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN="AafiAAIncDFhOWFmMWZkMmExOGE0ZGQxOGUxZDZjMTQ2M2RiM2U3ZHAxNDI5Nzg"
+UPSTASH_REDIS_REST_URL="https://next-kit-42978.upstash.io"
